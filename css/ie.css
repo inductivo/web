@@ -1,0 +1,3 @@
+/* -----------------for pie------------------- */
+.submenu_1 a{position: relative; behavior: url(js/PIE.htc); }
+.submenu_1,.submenu_2,.imHolder>span{position: absolute; behavior: url(js/PIE.htc); }
