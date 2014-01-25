@@ -116,6 +116,8 @@ font:17px 'Dosis', sans-serif;
 font-weight:bolder;
 }
 
+
+
 #login{
 
 color: #FFF;
@@ -126,6 +128,7 @@ margin: 5px 50px 0 0;
 
 
 }
+
 
 
 /*end footer*/
@@ -202,7 +205,6 @@ float: left;
 }
 #menu{
 float: left;
-
 }
 #menu>li {
 display: inline-block;
